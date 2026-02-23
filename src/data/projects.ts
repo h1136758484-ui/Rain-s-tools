@@ -46,7 +46,7 @@ export const projects: Project[] = [
     id: "3",
     name: "GoGlobal Strategist —— 企业海外扩张决策系统",
     tagline: "交互式海外设厂风险评估与路径策划案。系统基于多准则决策分析 (MCDA) 模型，量化税务、用工、地缘政治等各项权重。支持动态参数输入（如投资额、本地化比例、电价波动），自动重算整体运营成本并提供战略对冲方案。",
-    coverImage: "https://i.postimg.cc/Y9x16QFB/jie-ping2026-02-23-shang-wu10-12-52.png",
+    coverImage: "https://i.postimg.cc/Rhntvh7P/jie-ping2026-02-23-shang-wu10-12-52.png",
     promptText: "暂无 Prompt",
     githubUrl: "",
     geminiShareUrl: "https://ai.studio/apps/8371fa14-986d-4506-9349-fb38565c9f1f"
