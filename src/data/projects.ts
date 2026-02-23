@@ -37,7 +37,7 @@ export const projects: Project[] = [
     id: "2",
     name: "GBA Pulse —— 大湾区跨境流动政策看板",
     tagline: "数据驱动的政策感应与供应链预警系统。利用数据分析与自然语言处理（NLP）技术，抓取社交媒体对跨境政策的讨论热度，为政府或企业预测物流高峰及潜在拥堵点，提供政策落地前的“舆情体检”。",
-    coverImage: "https://i.postimg.cc/L8bgj28L/jie-ping2026-02-23-shang-wu10-13-09.png",
+    coverImage: "https://i.postimg.cc/fLQyYCm8/jie-ping2026-02-23-shang-wu10-13-09.png",
     promptText: "暂无 Prompt",
     githubUrl: "",
     geminiShareUrl: "https://ai.studio/apps/b42f6147-cf91-4e84-b87a-f8c117a19450"
