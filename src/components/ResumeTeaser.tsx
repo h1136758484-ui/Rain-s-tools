@@ -8,7 +8,7 @@ export default function ResumeTeaser() {
   return (
     <section className="py-12 px-4 md:px-8 max-w-5xl mx-auto relative z-10">
       <motion.a
-        href="https://share.htmlput.com/p/qaz7dmgul0?lang=zh"
+        href="https://myself.lyyddc.me/"
         target="_blank"
         rel="noopener noreferrer"
         onHoverStart={() => setIsHovered(true)}
